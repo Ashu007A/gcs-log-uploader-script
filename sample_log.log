@@ -1,0 +1,9 @@
+2024-12-16 15:30:01 INFO  [main] com.example.MyApp - Application started
+2024-12-16 15:30:03 DEBUG [main] com.example.MyApp - Fetching data from database
+2024-12-16 15:30:05 WARN  [main] com.example.MyApp - Slow response detected
+2024-12-16 15:30:07 ERROR [main] com.example.MyApp - Exception occurred: java.lang.NullPointerException
+2024-12-16 15:30:09 INFO  [main] com.example.MyApp - Data processing completed
+2024-12-16 15:30:11 DEBUG [main] com.example.MyApp - Starting data upload to cloud
+2024-12-16 15:30:13 INFO  [main] com.example.MyApp - Data upload successful
+2024-12-16 15:30:15 INFO  [main] com.example.MyApp - Application shutdown initiated
+2024-12-16 15:30:17 INFO  [main] com.example.MyApp - Application stopped
